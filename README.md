@@ -1,2 +1,3 @@
 # YOLOv9-AWS-Lambda-Docker
-The docker enviroment to devolop YOLOv9 to AWS lambda
+The docker environment to develop YOLOv9 to AWS ECR for the AWS lambda.
+It should be about 700MB on ECR
